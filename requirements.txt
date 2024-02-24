@@ -50,4 +50,3 @@ bqplot
 numpy
 pandas
 matplotlib
-seaborn
