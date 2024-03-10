@@ -1,29 +1,38 @@
-# JupyterLite Demo
+# Data Science for Pavements Symposium Data Science 101 Workshop: 2024 Lab Repository
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![Jupyter-Lite](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://markegge.github.io/dsps/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fbitbucket.org%2Fhigh-street%2Fdsps24/main)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Welcome to the Data Science for Pavement Symposium pre-symposium workshop! This repository contains the lab materials for this 8 hour workshop covering the fundamentals of using Python for data science and data visualizaiton in the context of assessing pavement conditions and developing predictive models. The labs herin have been designed assuming little to no previous experience with python, but progress quickly. If you would like additional resources for practice learning the Python fundamentals we recommend you use the [turorials](https://www.w3schools.com/python/python_intro.asp) provided by W3 Schools.
 
-## ✨ Try it in your browser ✨
+This workshop will introduce the foundational packages of the python data science stack, including `pandas`,  `matplotlib`, `seaborn`, and `scikit-learn`.
 
-➡️ **https://jupyterlite.github.io/demo**
+## Objectives
+By the end of this workshop you will be able to:
+- Read and write well documented python code for data analysis.
+- Identify and respond to errors when coding.
+- Develop effective static data visualizaitons that effectively communicate insights.
+- Describe the distinctions between machine learning algorithms and approaches.
+- Train simple machine learning learning models.
+- Accurately analyze, assess and describe the outputs of machine learning models.
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## Structure
+This repository is structured in 5 sections:
+1. [Basic Python and Intro to Jupyter Lab](1 - Intro to Jupyter Lab and Python.ipynb)
+2. [Data Wrangling and Exploratory Data Analysis](2 - Data Wrangling and EDA.ipynb)
+3. [Data Visualiztion Basics](3 - Data Visualization.ipynb)
+4. [Machine Learning and Modeling Approaches](4 - Modeling Approaches.ipynb)
+5. [Bonus: Computer Vision](N - Computer Vision.ipynb)
 
-## Requirements
+## Repository Authors:
+- Seth Reichert
+- Chapman Munn
 
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+## Presenters and Instruction:
+- Mark Egge
+- Seth Reichert
+- Chapman Munn
+- Mackenzie Bartek
+- Ali Asudegi
+- Jennifer Andre
+- Shuqing Wang
